@@ -7,6 +7,6 @@
     <title>Livewire</title>
 </head>
 <body>
-    <livewire:todos/>
+    <livewire:todos />
 </body>
 </html>
